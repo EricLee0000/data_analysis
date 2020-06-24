@@ -1,3 +1,25 @@
-venv
+*.pyc
+*.json
+
+*.ipynb_checkpoints
+*.vscode
+*.credentials
+*.png
+*.gdoc
+*.gsheet
+*.gslides
+*.zip
+*.gslides
+*.doc
+*.docx
+*.pdf
 *.csv
 *.xlsx
+
+# Do not ignore
+!config_template.json
+
+
+settings.json
+
+token.pickle
