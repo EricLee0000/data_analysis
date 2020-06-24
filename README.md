@@ -1,6 +1,7 @@
 Format source: https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56
 
 ## FOLDER LAYOUT
+```
 ├── README.md          <- The top-level README for developers.
 ├── conf               <- Space for credentials
 │
@@ -59,3 +60,4 @@ Format source: https://medium.com/swlh/how-to-structure-a-python-based-data-scie
     │
     └── d07_visualisation<- Scripts to create frequently used plots
         └── visualise_patient_journey.py
+```
